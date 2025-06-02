@@ -12,7 +12,7 @@
 
 ## 📌 Descrição do Projeto
 
-**Blackout Guardian** é uma plataforma integrada para detecção, relato e visualização de apagões em tempo real, combinando tecnologias de visão computacional, sensores IoT e geolocalização.
+**Guard Blackout** é uma plataforma integrada para detecção, relato e visualização de apagões em tempo real, combinando tecnologias de visão computacional, sensores IoT e geolocalização.
 
 ---
 
@@ -31,7 +31,7 @@ Esses fatores abrem espaço para uma **solução crowd-sourced, inteligente e ac
 
 ## 💡 2. Proposta de Valor
 
-**Blackout Guardian** funciona como um “Waze para blecautes”, com cinco camadas:
+**Guard Blackout** funciona como um “Waze para blecautes”, com cinco camadas:
 
 1. **📱 Mobile App (React Native)**  
    - Relato de apagões com um toque  
